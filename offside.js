@@ -3,7 +3,7 @@ export default function (API) {
 
     Object.setPrototypeOf(this, Plugin.prototype);
     Plugin.call(this, "offside", true, {
-        version: "0.5",
+        version: "0.1",
         author: "neo",
         description: "Plugin for managing an offside room",
         allowFlags: AllowFlags.CreateRoom

@@ -10,7 +10,7 @@ git clone https://github.com/SoyNeo12/haxball-offside.git
 cd haxball-offside
 npm install
 ```
-1. Open `index.js` and set your headless token from: [TOKEN](https://www.haxball.com/headlesstoken)
+1. Open `index.js` and set your headless token from: [https://www.haxball.com/headlesstoken](https://www.haxball.com/headlesstoken)
 2. Run the plugin:
 
 ```bash

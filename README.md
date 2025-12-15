@@ -25,3 +25,5 @@ Yes. After cloning the repository, you are free to modify and improve the script
 * The ball curves depending on the player's Y-axis speed.
 * After 1.4 seconds, the ball gravity resets.
 * The curve also applies additional speed along the trajectory.
+
+## Any questions, please contact us at: [https://github.com/SoyNeo12/haxball-offside/issues](https://github.com/SoyNeo12/haxball-offside/issues)

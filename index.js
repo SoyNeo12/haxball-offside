@@ -1,7 +1,8 @@
 import Haxball from "node-haxball";
 import offside from "./offside.js";
 
-const { Room, Errors } = Haxball();
+const API = Haxball();
+const { Room, Errors } = API;
 
 Room.create({
     name: "OFFSIDE HOST",

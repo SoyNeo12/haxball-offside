@@ -1,0 +1,16 @@
+{
+  "name": "haxball-offside",
+  "version": "1.0.0",
+  "description": "Haxball plugin that detects when a player is offside",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "neo",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-haxball": "^2.3.0"
+  }
+}
